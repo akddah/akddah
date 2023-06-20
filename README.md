@@ -29,15 +29,3 @@ I'm a self-taught programmer who always try to learn something new and interesti
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akddah)  
 
-
-# Zone UI
-
-### New App with flutter finshed Ui
-
-### Screenshot
-<img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.08%20AM%20(1).jpeg" width=200 height=450/><img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.08%20AM.jpeg" width=200 height=450/><img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.07%20AM%20(5).jpeg" width=200 height=450/><img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.08%20AM%20(2).jpeg" width=200 height=450/> <img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.07%20AM%20(2).jpeg" width=200 height=450/>
-<img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.07%20AM%20(1).jpeg" width=200 height=450/><img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.07%20AM.jpeg" width=200 height=450/><img src="https://github.com/akddah/masterZONE/blob/main/Screenshot/WhatsApp%20Image%202021-05-15%20at%205.10.07%20AM%20(4).jpeg" width=200 height=450/>
-
-
-## Download
-Drive Link => https://drive.google.com/file/d/1haiRNKuag0iq9xjmB0jHQe7pTTMsnTXH/view?usp=sharing
