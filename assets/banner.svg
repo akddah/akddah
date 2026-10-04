@@ -15,11 +15,6 @@
       .role { font-size: 26px; font-weight: 600; fill: #9EE6FF; }
       .chipText { font-size: 17px; font-weight: 600; fill: #ffffff; }
       .hello { font-size: 20px; font-weight: 500; fill: #CFEFFF; letter-spacing: 3px; }
-      .fade1 { opacity: 0; animation: up .8s ease-out .1s forwards; }
-      .fade2 { opacity: 0; animation: up .8s ease-out .35s forwards; }
-      .fade3 { opacity: 0; animation: up .8s ease-out .6s forwards; }
-      .fade4 { opacity: 0; animation: up .8s ease-out .85s forwards; }
-      @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
       .float1 { animation: float 6s ease-in-out infinite; }
       .float2 { animation: float 8s ease-in-out infinite reverse; }
       @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
@@ -46,12 +41,13 @@
     <rect x="16" y="190" width="96" height="22" rx="11" fill="#9EE6FF" fill-opacity="0.8"/>
   </g></g>
 
-  <g class="font">
-    <text x="64" y="92" class="hello fade1">HELLO, I'M</text>
-    <text x="62" y="160" class="name fade2">Abdallah Osama</text>
-    <text x="64" y="204" class="role fade3">Flutter Team Lead  •  Android &amp; iOS Engineer</text>
 
-    <g class="fade4">
+  <g class="font">
+    <text x="64" y="92" class="hello">HELLO, I'M</text>
+    <text x="62" y="160" class="name">Abdallah Osama</text>
+    <text x="64" y="204" class="role">Flutter Team Lead  •  Android &amp; iOS Engineer</text>
+
+    <g>
       <rect x="64" y="234" width="150" height="40" rx="20" fill="url(#chip)" stroke="#ffffff" stroke-opacity="0.25"/>
       <text x="139" y="260" class="chipText" text-anchor="middle">6+ years</text>
 
