@@ -139,8 +139,8 @@ class Abdallah extends Developer {
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akddah&show_icons=true&hide_border=true&bg_color=00000000&title_color=13B9FD&icon_color=02569B&text_color=8b949e" />
-  <img height="165" src="https://streak-stats.demolab.com?user=akddah&hide_border=true&background=00000000&ring=13B9FD&fire=02569B&currStreakLabel=13B9FD" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akddah&show_icons=true&hide_border=true&bg_color=00000000&title_color=13B9FD&icon_color=02569B&text_color=8b949e&disable_animations=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=akddah&hide_border=true&background=00000000&ring=13B9FD&fire=02569B&currStreakLabel=13B9FD&disable_animations=true" />
 </p>
 
 <!-- Footer -->
