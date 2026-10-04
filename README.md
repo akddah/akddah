@@ -1,31 +1,78 @@
+<h1 align="center">Hi, I'm Abdallah Osama 👋</h1>
+<h3 align="center">Flutter Team Lead · Senior Flutter Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=6%2B+years+shipping+production+mobile+apps;Flutter+%2B+Native+Android+(Kotlin)+%26+iOS+(Swift);Notifications%2C+Background+Execution%2C+Real-time+%26+Maps" alt="Typing SVG" />
+</p>
 
-#### Flutter Developer 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallah-osama-746b971b9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdallah.kddah97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://gitlab.com/ao25332"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/📍_Mansoura,_Egypt-555?style=for-the-badge" />
+</p>
 
-![Flutter Developer ](https://e3arabi.com/wp-content/uploads/2021/04/code-and-headphones-1-780x470.jpg)
- 
- 
- 
-I'm a self-taught programmer who always try to learn something new and interesting. And pretty comfortable with Java, Dart, Android and Flutter.
+---
 
+### 🚀 About Me
 
+Flutter Team Lead with **6+ years** of experience delivering production mobile apps for **Android and iOS**. I stay hands-on in Flutter and move into **native Android/iOS** whenever a product needs lower-level integration.
 
-#### Skills: 
+- 🏢 Currently **leading Flutter delivery at Alalmiya Alhura** — consumer, marketplace, service, education-finance, social/review and business apps
+- 🛠️ Part-time Flutter developer at **Jinni Services** (20,000+ users)
+- 🔔 Deep in complex push-notification flows (foreground / background / terminated), background execution and location tracking
+- 🧭 Building reusable project foundations, guiding technical direction, and owning releases to Google Play, App Store & Huawei AppGallery
 
-<p align="left"> <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width:100%;"> </a> <a href="https://dart.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" alt="dart" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="max-width:100%;"> </a> <a href="https://admob.google.com/intl/ar/home/" rel="nofollow"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/google-admob-logo.png" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width:100%;"> </a> <a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="firebase" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width:100%;"> </a> <a href="https://flutter.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="flutter" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="max-width:100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width:100%;"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"> </a> <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"> </a> <a href="https://postman.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width:100%;"> </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667" alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" style="max-width:100%;"> </a> </p>
+---
 
+### 🧰 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio,firebase,sqlite,git,github,gitlab,jenkins,postman,figma&perline=14" />
+</p>
 
-- 🔭 I’m currently working on ([Semi-Colen](https://semi-colen.com/))  <img src="https://semi-colen.com/assets/front/img/5edbb922c97c7.png" alt="android" width="20" height="20" style="max-width:100%;"> 
-- ✌️ ([MY CV](https://drive.google.com/file/d/1_rsZsSRxtX6B8zMpa2tRQcGbdBZyBbvE/view?usp=sharing))
-- ⭐ ([Some of my Project](https://drive.google.com/file/d/1S4He8MjJEtRbwQxeF_Z3pRjpd_Q4DRRt/view?usp=sharing))
+| Area | Tools & Skills |
+|---|---|
+| **Flutter & Architecture** | Clean architecture, reusable foundations, responsive UI, app lifecycle |
+| **Native** | Android (Kotlin/Java), iOS (Swift), Platform Channels, native SDKs, permissions |
+| **State Management** | BLoC, Provider, GetX |
+| **Real-time & Location** | Socket.IO, Google Maps, foreground/background & terminated-state tracking |
+| **Backend & Data** | REST APIs, Dio, Firebase, Cloud Firestore, Cloud Functions, SQL, SQLite, offline storage |
+| **Quality & Delivery** | Debugging, performance tuning, testing, Instabug, Jenkins, Jira, Trello |
 
+---
 
+### 📱 Selected Production Apps
 
+| App | Description | Highlights | Links |
+|---|---|---|---|
+| **Welp** | Local discovery & social reviews — places, ordering, healthcare booking | ⭐ 50K+ downloads | [Play](https://play.google.com/store/apps/details?id=com.welp.welp) · [App Store](https://apps.apple.com/us/app/welp-rating-social-reviews/id6478454000) |
+| **A Plus** | Online learning — courses, lectures & study library | ⭐ 50K+ downloads | [Play](https://play.google.com/store/apps/details?id=com.sellx.aplus_student) · [App Store](https://apps.apple.com/eg/app/a-plus/id1543956025) |
+| **Jinni Services** | Cleaning services for homes & businesses | 👥 20,000+ users | [Play](https://play.google.com/store/search?q=jinni%20services&c=apps) · [App Store](https://apps.apple.com/us/app/jinni-services/id1450754451) |
+| **EduCash** | Education financing & tuition installments | ⭐ 10K+ downloads | [Play](https://play.google.com/store/apps/details?id=com.alalmia.alhura.educash) · [App Store](https://apps.apple.com/us/app/edu-cash/id6451444229) |
+| **All In** | Marketplace to buy, sell, rent & request | Nearby discovery, chat | [Play](https://play.google.com/store/apps/details?id=com.alalmiyalhura.allin) · [App Store](https://apps.apple.com/us/app/all-in-%D8%A8%D9%8A%D8%B9-%D9%88%D8%A7%D8%B4%D8%AA%D8%B1-%D8%A8%D8%AF%D9%88%D9%86-%D8%B9%D9%85%D9%88%D9%84%D8%A9/id6746713475) |
+| **Jinni Provider** | Provider ops — shifts, tasks, performance | Internal operations | [Play](https://play.google.com/store/apps/details?id=com.jinni.providerapp) · [App Store](https://apps.apple.com/us/app/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%AC%D9%8A%D9%86%D9%8A/id1624575852) |
+| **Zeda** | Loyalty & rewards — points, QR coupons | Multi-program loyalty | [Play](https://play.google.com/store/apps/details?id=cloud.alalmiyaalhura.zeda&hl=en) · [App Store](https://apps.apple.com/us/app/zeda/id6758104605) |
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akddah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdallah-osama-746b971b9//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/b0dy.2014/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abdallah_kddah//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akddah)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+201552447498)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/ao25332)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+### 💼 Experience
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akddah)  
+- **Flutter Team Lead** — Alalmiya Alhura · *May 2024 – Present* (promoted from Flutter Developer, Jul 2021)
+- **Flutter Developer** — Jinni Services · *Dec 2021 – Present* (part-time)
+- **Flutter Developer** — Potato Media · *Jul 2021 – Oct 2021* (freelance)
+- **Flutter Developer** — Semi Colon · *May 2020 – May 2021*
+- **Flutter Developer** — Octopus, Lebanon · *Sep 2020 – Jan 2021* (part-time)
 
+🎓 Engineering — Nile Academy for Engineering (2017 – 2021)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akddah&show_icons=true&hide_border=true&theme=default" />
+  <img height="165" src="https://streak-stats.demolab.com?user=akddah&hide_border=true" />
+</p>
+
+<p align="center">💬 Open to collaborating on challenging mobile products — feel free to reach out!</p>
