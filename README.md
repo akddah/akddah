@@ -1,10 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=200&section=header&text=Abdallah%20Osama&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Team%20Lead%20%E2%80%A2%20Mobile%20Engineer&descAlignY=58&descSize=18" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+mobile+apps+people+actually+use+%F0%9F%93%B1;100K%2B+downloads+across+production+apps;Flutter+on+the+surface%2C+native+when+it+matters;Leading+a+Flutter+team+in+Mansoura%2C+Egypt" alt="Typing SVG" />
+  <img src="./assets/banner.svg" width="100%" alt="Abdallah Osama — Flutter Team Lead" />
 </p>
 
 <p align="center">
